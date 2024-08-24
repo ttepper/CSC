@@ -1,10 +1,10 @@
-#include "SalesTax.h"
+#include  "Rectangle.h"
 
 int main()
 {
-    SalesTax s;
+    Rectangle r;
 
-    s.calcSalesTax();
-
+    r.calcArea();
+    
     return 0;
 }
