@@ -1,10 +1,10 @@
-#include "SalesTax.h"
+#include "MonthlyPayments.h"
 
 int main()
 {
-	SalesTax s;
+	MonthlyPayments m;
 
-	s.calcSalesTax();
+	m.calcMPL_V2();
 
 	return 0;
 }
