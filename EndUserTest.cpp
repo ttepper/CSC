@@ -1,10 +1,10 @@
-#include "CSMisc.h"
+#include "InterestEarned.h"
 
 int main()
 {
-	CSMisc cs;
+	InterestEarned m;
 
-	cs.getChars();
+	m.calcInterestEarned();
 
 	return 0;
 }
