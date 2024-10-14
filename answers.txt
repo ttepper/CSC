@@ -1,0 +1,3 @@
+
+Average Area: 118634.65
+Average Circumference: 1214.19
