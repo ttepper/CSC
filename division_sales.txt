@@ -1,0 +1,16 @@
+Division: East, Quarter: 1, Quarterly Sales: $100
+Division: East, Quarter: 2, Quarterly Sales: $200
+Division: East, Quarter: 3, Quarterly Sales: $300
+Division: East, Quarter: 4, Quarterly Sales: $400
+Division: West, Quarter: 1, Quarterly Sales: $10
+Division: West, Quarter: 2, Quarterly Sales: $20
+Division: West, Quarter: 3, Quarterly Sales: $30
+Division: West, Quarter: 4, Quarterly Sales: $40
+Division: North, Quarter: 1, Quarterly Sales: $1
+Division: North, Quarter: 2, Quarterly Sales: $2
+Division: North, Quarter: 3, Quarterly Sales: $3
+Division: North, Quarter: 4, Quarterly Sales: $4
+Division: South, Quarter: 1, Quarterly Sales: $1
+Division: South, Quarter: 2, Quarterly Sales: $2
+Division: South, Quarter: 3, Quarterly Sales: $3
+Division: South, Quarter: 4, Quarterly Sales: $4
